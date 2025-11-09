@@ -1,4 +1,9 @@
 # TUGAS 6 PERTEMUAN 8 PRAKTIKUM PEMOGRAMAN MOBILE
+# Screenshoot Aplikasi
+<img width="498" height="1122" alt="image" src="https://github.com/user-attachments/assets/4da90614-2fe0-47a6-9fa2-bcd2b0874bf4" />
+<img width="494" height="1123" alt="image" src="https://github.com/user-attachments/assets/296760ea-e0b1-417a-82e8-7444fadf9341" />
+
+# Penjelasan Proses Passing Data dari Form Menuju Tampilan 
 1. Pengguna mengisi form untuk Nama, NIM, dan Tahun Lahir lalu datanya disimpan pada ``TextEditingController``. Controller berfungsi sebagai wadah sementara.
 ```
 final _NamaController = TextEditingController();
